@@ -1,9 +1,7 @@
-# Hi there 👋 I'm Phomelelo Jacob!
-
-🎓 I'm currently a university student studying **Computer Science** and **Mathematics**, with a strong interest in **Software Engineering** and **Artificial Intelligence**.
+# Hi there 👋 I'm Jacob!
 
 💡 I'm focused on building my skills in:
-- **Python** for AI & Machine Learning
+- **Python** for AI, Machine Learning, web dev
 - **HTML, CSS, and JavaScript** for front-end web development
 
 🧠 Currently learning:
